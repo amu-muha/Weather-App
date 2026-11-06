@@ -61,3 +61,4 @@ class LocationModel {
   @override
   int get hashCode => name.hashCode ^ latitude.hashCode ^ longitude.hashCode;
 }
+

@@ -174,3 +174,4 @@ class DailyForecastView extends StatelessWidget {
     }
   }
 }
+

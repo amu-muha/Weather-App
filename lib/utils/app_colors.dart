@@ -27,3 +27,4 @@ class AppColors {
     radius: 0.8,
   );
 }
+

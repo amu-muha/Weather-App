@@ -113,3 +113,4 @@ class WeatherHelper {
     return directions[index % directions.length];
   }
 }
+

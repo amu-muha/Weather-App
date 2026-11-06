@@ -130,3 +130,4 @@ class HourlyForecastView extends StatelessWidget {
     );
   }
 }
+
